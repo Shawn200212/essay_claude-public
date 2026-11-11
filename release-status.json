@@ -1,0 +1,9 @@
+{
+  "checked_on": "2026-11-11",
+  "platform": "claude",
+  "core": "essay_claude",
+  "behavior_scope": "Bounded synthetic writing checks; no native Claude model or live application certification",
+  "source_sha256": {
+    "essay": "ecbd334155ca9cf5fd70d56a74873ab6991994fe979ce7223f9587d962044d81"
+  }
+}
